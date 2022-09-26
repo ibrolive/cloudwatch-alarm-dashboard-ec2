@@ -76,7 +76,7 @@
         "height": 6,
         "properties": {
           "metrics": [
-            [ { "expression": "SEARCH('{AWS/EC2,InstanceId} MetricName=\"DiskWriteOps\"', 'Maximum', 60)", "id": "e4", "label": "DiskWriteOps" } ]
+            [ { "expression": "SEARCH('{AWS/EC2,InstanceId} MetricName=\"DiskWriteOps\"', 'Maximum', 60)", "id": "e5", "label": "DiskWriteOps" } ]
           ],
           "period": 60,
           "liveData": true,
